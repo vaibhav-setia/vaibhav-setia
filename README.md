@@ -54,7 +54,6 @@
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=web&logoColor=white%22&color=black">](https://vaibhavsetia.info/)&nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%23007ACC.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=#0072b1" />](https://www.linkedin.com/in/vaibhav-setia/)&nbsp;
-<!--[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />]--><!--(https://www.instagram.com/lakshay.setia/)&nbsp; -->
  [<img src ="https://img.shields.io/badge/mail-%23.svg?&style=for-the-badge&logo=post&logoColor=white%22&color=black">](mailto:setia.v@northeastern.edu)&nbsp;
 </p>
 
