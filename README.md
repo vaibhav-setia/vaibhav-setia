@@ -1,6 +1,7 @@
 
 <!-- markdownlint-disable MD033 MD041 -->
 <h1 align="center">Hi 👋, I'm Vaibhav Setia</h1>
+<h3 align="center">A Software Engineer from Boston , MA</h3>
 <!-- markdownlint-enable MD033 -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roberto+Mono&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=1000&lines=Backend+Developer;Frontend+Developer;Algorithms+Solver)
@@ -53,10 +54,10 @@
 
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=web&logoColor=white%22&color=black">](https://vaibhavsetia.info/)&nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%23.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=#0A66C2" />](https://www.linkedin.com/in/vaibhav-setia/)&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vaibhav-setia/)&nbsp;
  [<img src ="https://img.shields.io/badge/mail-%23.svg?&style=for-the-badge&logo=post&logoColor=white%22&color=black">](mailto:setia.v@northeastern.edu)&nbsp;
 
-
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-setia&show_icons=true&locale=en&layout=compact" alt="vaibhav-setia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-setia&show_icons=true&locale=en" alt="vaibhav-setia" /></p>
