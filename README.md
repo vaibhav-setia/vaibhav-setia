@@ -48,6 +48,17 @@
 
 <!--![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;-->
 
+## Connect with me:
+<p align = "center">
+
+
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=web&logoColor=white%22&color=black">](https://vaibhavsetia.info/)&nbsp;
+[<img src="https://img.shields.io/badge/linkedin-%23007ACC.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=#0072b1" />](https://www.linkedin.com/in/vaibhav-setia/)&nbsp;
+<!--[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/lakshay.setia/)&nbsp;-->
+ [<img src ="https://img.shields.io/badge/mail-%23.svg?&style=for-the-badge&logo=post&logoColor=white%22&color=black">](mailto:setia.v@northeastern.edu)&nbsp;
+</p>
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-setia&show_icons=true&locale=en&layout=compact" alt="vaibhav-setia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-setia&show_icons=true&locale=en" alt="vaibhav-setia" /></p>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF31&background=161B2200&center=true&vCenter=true&multiline=true&width=800&lines=%F0%9F%91%8B+Hi!+I+am+Lakshay+Setia)](https://git.io/typing-svg) -->
