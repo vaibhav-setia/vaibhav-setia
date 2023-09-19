@@ -53,11 +53,11 @@
 <p align = "center">
 
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=web&logoColor=white%22&color=black">](https://vaibhavsetia.info/)&nbsp;
+[<img src ="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">](https://vaibhavsetia.info/)&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vaibhav-setia/)&nbsp;
- [<img src ="https://img.shields.io/badge/mail-%23.svg?&style=for-the-badge&logo=post&logoColor=white%22&color=black">](mailto:setia.v@northeastern.edu)&nbsp;
+ [<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:setia.v@northeastern.edu)&nbsp;
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-setia&show_icons=true&locale=en&layout=compact" alt="vaibhav-setia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-setia&show_icons=true&locale=en" alt="vaibhav-setia" /></p>
